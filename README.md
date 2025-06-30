@@ -59,3 +59,11 @@ Never upload .env to GitHub!
 -npm start
 
 ## Screenshots
+
+![Image](https://github.com/user-attachments/assets/188c2bac-be9a-4fb0-a3ad-97cca0a33133)
+
+![Image](https://github.com/user-attachments/assets/2121a11e-438a-4d10-9366-aefdbcd15348)
+
+![Image](https://github.com/user-attachments/assets/ff54336f-15eb-4d11-b03b-966ca3ea8156)
+
+![Image](https://github.com/user-attachments/assets/2cef2769-723a-4523-894c-3442845ebd20)
