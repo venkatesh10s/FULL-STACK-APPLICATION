@@ -1,10 +1,8 @@
-## Full Stack Application
-
+# Full Stack Application
 A simple and clean full-stack application built with **React**, **Node.js**, **Express**, and **MongoDB**.
 This project includes user authentication (Register/Login) and a basic protected dashboard.
 
 ## Technologies Used
-
 ### Frontend:
 - React.js
 - React Router
@@ -18,7 +16,6 @@ This project includes user authentication (Register/Login) and a basic protected
 - bcrypt for password hashing
 
 ## Features
-
 - User Registration
 - User Login
 - Protected Dashboard
